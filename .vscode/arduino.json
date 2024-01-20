@@ -1,8 +1,0 @@
-{
-    "sketch": "code\\main.ino",
-    "output": "./build",
-    "port": "COM3",
-    "board": "ATTinyCore:avr:attinyx5",
-    "programmer": "ATTinyCore:arduinoasisp",
-    "configuration": "LTO=enable,TimerClockSource=default,chip=85,clock=8internal,eesave=aenable,bod=disable,millis=enabled"
-}
